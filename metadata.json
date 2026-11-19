@@ -1,0 +1,6 @@
+{
+  "name": "AgroAlert AI",
+  "description": "Smart Extreme Weather Alert, Crop Risk Engine & Multilingual Voice Assistant Platform for global farmers.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

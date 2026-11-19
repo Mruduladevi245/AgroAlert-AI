@@ -1,0 +1,22 @@
+
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+
+# Environment secrets
+.env*
+!.env.example
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary voice test files
+voice-test-audio.bin
+voice-test-audio.wav
+voice-test-headers.txt
+data/
